@@ -30,7 +30,7 @@
 5. Business Rule 3 is below
    
     ```
-    <business-rule id="1" name="Rule-1">
+    <business-rule id="3" name="Rule-3">
       <condition>
         <or>
           <when>
